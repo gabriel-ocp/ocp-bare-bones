@@ -9,4 +9,4 @@ tasks:
       asciibinder build --distro=openshift-enterprise
     command: |
       cd _preview/openshift-enterprise/main
-      http-server
+      http-server welcome/index.html
